@@ -1,0 +1,22 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.row {
+    width:40%;
+    height:170px;
+	margin-left:30%;
+	margin-top:100px;
+	padding:10px 30px;
+	border:1px solid #afb6bd;
+	border-radius:8px;
+}
+.form-group1{
+	width:50%;
+	height:50px;
+	float:left;
+	padding-top:10px;
+}
+button.btn.btn-default{
+	width:120px;
+}

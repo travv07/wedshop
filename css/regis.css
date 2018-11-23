@@ -1,0 +1,19 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.row {
+	width:60%;
+	height:auto;
+	margin:50px;
+	padding:10px;
+	border:1px solid #afb6bd;
+	border-radius:8px;
+
+}
+.form-control{
+	width:50%;
+}
+.btn.btn-default.image-preview-input {
+    width: 50%;
+}
