@@ -2,18 +2,35 @@
 	padding: 0px;
 	margin: 0px;
 }
-.row {
-	width:60%;
-	height:auto;
-	margin:50px;
-	padding:10px;
-	border:1px solid #afb6bd;
-	border-radius:8px;
-
+h2{
+	text-align: center;
 }
-.form-control{
-	width:50%;
+.row1 {
+	width: 100%;
+	height: auto;
 }
-.btn.btn-default.image-preview-input {
+.khungrow {
+	width: 80%;
+	margin: 50px auto;
+	height: auto;
+}
+.form-group1 {
     width: 50%;
+    margin: 10px auto;
+    min-height: 50px;
+}
+.row-left {
+    width: 30%;
+    float: left;
+}
+.row-right {
+    width: 70%;
+    float: left;
+}
+.btn-avt{
+	width: 100%;
+}
+.btn-regis {
+    width: 50%;
+    margin: 0 154px;
 }

@@ -1,0 +1,39 @@
+.page-product-detail {
+    width: 100%;
+    padding-top: 60px;
+    font-size: 15px;
+    min-height:590px;
+}
+.view-product {
+    width: 80%;
+    margin: 0 auto;
+}
+.view-product-left {
+    width: 45%;
+    float: left;
+}
+.view-product-right {
+    width: 55%;
+    float: left;
+}
+.view-info-product {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.btn-buy{
+	width: 50%;
+    height: 40px;
+    font-size: 15px;
+    background: #e4dfdf;
+}
+.footer-user{
+	width:100%;
+	min-height:300px;
+	background:#040404;
+	font-size: 15px;
+	
+}
+.cmt{
+    z-index: -1;
+}

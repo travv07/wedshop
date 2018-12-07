@@ -9,9 +9,10 @@
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-	<div class="row">
+	<h2>Sign in</h2>
+	<div class="row1">
 		<div class="khungrow">
-			<form>
+			<form action="checklogin.php" method="post">
 				<div class="form-group">
 					<div class="input-group">
 					    <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
@@ -20,19 +21,13 @@
 				</div>
 			    <div class="form-group">
 			    	<div class="input-group">
-				    <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-				    <input id="password" type="password" class="form-control" name="password" placeholder="Enter Password">
-				</div>
+					    <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>	
+					    <input id="password" type="password" class="form-control" name="password" placeholder="Enter Password">
+					</div>
 			    </div>
 				<div class="form-group1">        
-				    <div class="col-sm-offset-2 col-sm-10">
-				    	<button type="submit" class="btn btn-default">Login</button>
-				    </div>
-				</div>
-				<div class="form-group1">        
-				    <div class="col-sm-offset-2 col-sm-10">
-				    	<button type="submit" class="btn btn-default">Forgot Pass</button>
-				    </div>
+				   	<button type="submit" class="btn btn-default btn-login" type="submit" name="login">Login</button>
+				   	<a href="regis.html">Create a account</a>
 				</div>
 			</form>
 		</div>

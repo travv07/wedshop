@@ -1,0 +1,92 @@
+*{
+	font-size: 15px;
+}
+.page-connter {
+    min-height: 550px;
+    width: 100%;
+    background: #f5f2f2;
+}
+.page-user-info {
+    width: 80%;
+    padding-top: 70px;
+    margin: 0 auto;
+
+}
+.container-left {
+    width: 25%;
+    min-height: 300px;
+    float: left;
+}
+.user {
+    width: 85%;
+    float: left;
+    height: 65px;
+    border-bottom:#e4dfdf solid 0.5px;
+}
+.user-img {
+    width: 20%;
+    float: left;
+}
+.user-name {
+    width: 70%;
+    float: left;
+    margin: 9px 5px;
+}
+.side-bar-menu li {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 40px;
+    list-style: none;
+}
+.side-bar-menu a {
+	text-decoration: none;
+}
+.container-right {
+    width: 70%;
+    float: left;
+    background: white;
+    height: 435px;
+}
+.user-info {
+    width: 80%;
+    margin: 0 auto;
+}
+.user-info-label {
+    height: 65px;
+    border-bottom:#e4dfdf solid 0.5px;
+}
+.khungrow {
+	width: 90%;
+	margin: 0 auto;
+	height: auto;
+}
+.form-group2 {
+    width: 100%;
+    margin: 10px auto;
+    min-height: 50px;
+}
+.row-left {
+    width: 25%;
+    float: left;
+}
+.row-right {
+    width: 70%;
+    float: left;
+}
+.row-right input {
+    height: 33px;
+    font-size: 15px;
+}
+.btn-save {
+    width: 50%;
+    height: 36px;
+    font-size: 20px;
+    background: #e4dfdf;
+}
+.footer-user{
+	width:100%;
+	min-height:300px;
+	background:#040404;
+	font-size: 15px;
+	
+}

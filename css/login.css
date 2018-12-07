@@ -2,21 +2,28 @@
     padding:0px;
     margin:0px;
 }
-.row {
-    width:40%;
-    height:170px;
-	margin-left:30%;
-	margin-top:100px;
-	padding:10px 30px;
-	border:1px solid #afb6bd;
-	border-radius:8px;
+h2{
+	text-align: center;
 }
-.form-group1{
-	width:50%;
-	height:50px;
-	float:left;
-	padding-top:10px;
+.row1{
+	width: 100%;
 }
-button.btn.btn-default{
-	width:120px;
+.khungrow{
+	width: 60%;
+	margin: 50px auto;
+	min-height: 300px
+}
+.form-group {
+    width: 50%;
+    margin: 20px auto;
+}
+.form-group1 {
+    width: 50%;
+    margin: 0px auto;
+}
+.form-group1 a {
+	float: right;
+}
+.btn-login {
+    width: 50%;
 }
